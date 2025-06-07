@@ -66,7 +66,7 @@ A secure backend API that provides user authentication, profile management, and 
 
 ---
 
-![Login API Screenshot](./assets/login-api.png)
+![Login API Screenshot](./pic1.png)
 
 
 ## 📡 API Endpoints
