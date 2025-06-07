@@ -88,7 +88,7 @@ A secure backend API that provides user authentication, profile management, and 
       "message": "User registered successfully"
     }
     ```
-
+![Login API Screenshot](./pic2.png)
 - **POST** `/api/login`
   - Request:
     ```json
@@ -103,7 +103,7 @@ A secure backend API that provides user authentication, profile management, and 
       "token": "JWT_TOKEN"
     }
     ```
-
+![Login API Screenshot](./pic3.png)
 - **GET** `/api/profile` _(Protected)_
   - Headers: `Authorization: Bearer <token>`
   - Response:
@@ -115,7 +115,7 @@ A secure backend API that provides user authentication, profile management, and 
     ```
 
 ---
-
+![Login API Screenshot](./pic4.png)
 ### 🎛️ Preferences
 
 - **POST** `/api/preferences` _(Protected)_
@@ -126,7 +126,7 @@ A secure backend API that provides user authentication, profile management, and 
       "layout": "grid"
     }
     ```
-
+![Login API Screenshot](./pic5.png)
 - **GET** `/api/preferences` _(Protected)_
   - Response:
     ```json
@@ -137,7 +137,7 @@ A secure backend API that provides user authentication, profile management, and 
     ```
 
 ---
-
+![Login API Screenshot](./pic6.png)
 ### 🎁 Bonus Endpoints
 
 - **GET** `/api/dashboard-summary` _(Protected)_
@@ -149,7 +149,7 @@ A secure backend API that provides user authentication, profile management, and 
       "notifications": 12
     }
     ```
-
+![Login API Screenshot](./pic7.png)
 - **PATCH** `/api/profile` _(Protected)_
   - Request:
     ```json
@@ -159,7 +159,7 @@ A secure backend API that provides user authentication, profile management, and 
     ```
 
 ---
-
+![Login API Screenshot](./pic8.png)
 ## ✅ Features
 
 - Secure JWT authentication
