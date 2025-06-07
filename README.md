@@ -37,7 +37,7 @@ A secure backend API that provides user authentication, profile management, and 
 
 ---
 
-## 🛠️ Setup Instructions
+## 🛠️ Setup Instructions with 📸 Screenshots
 
 1. **Clone the repository**
    ```bash
@@ -65,6 +65,9 @@ A secure backend API that provides user authentication, profile management, and 
    ```
 
 ---
+
+![Login API Screenshot](./assets/login-api.png)
+
 
 ## 📡 API Endpoints
 
@@ -168,9 +171,8 @@ A secure backend API that provides user authentication, profile management, and 
 
 ---
 
-## 📸 Screenshots
 
-> 📷 _Include screenshots of Postman requests here_
+
 
 ---
 
