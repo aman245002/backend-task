@@ -103,7 +103,7 @@ A secure backend API that provides user authentication, profile management, and 
       "token": "JWT_TOKEN"
     }
     ```
-![Login API Screenshot](./pic3.png)
+![Login API Screenshot](./pic4.png)
 - **GET** `/api/profile` _(Protected)_
   - Headers: `Authorization: Bearer <token>`
   - Response:
@@ -115,7 +115,7 @@ A secure backend API that provides user authentication, profile management, and 
     ```
 
 ---
-![Login API Screenshot](./pic4.png)
+![Login API Screenshot](./pic3.png)
 ### 🎛️ Preferences
 
 - **POST** `/api/preferences` _(Protected)_
