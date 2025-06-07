@@ -41,7 +41,7 @@ A secure backend API that provides user authentication, profile management, and 
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/your-username/auth-settings-api.git
+   git clone [https://github.com/your-username/auth-settings-api.git](https://github.com/aman245002/backend-task)
    cd auth-settings-api
    ```
 
